@@ -30,6 +30,19 @@ This project demonstrates a simple AWS 3-Tier Web Application deployed using AWS
 
 ## Screenshots
 
+## Screenshots
+
+### VPC Overview
+![VPC Overview](01-vpc-overview.png)
+
+### AWS Console Screenshots
+![AWS Screenshot](Screenshot_13-7-2026_115150_ap-south-1.console.aws.amazon.png)
+
+![AWS Screenshot](screenshot-1783935284238%20-%20Copy.png)
+
+## Author
+
+Vinoth Kumar
 (Add screenshots here)
 
 ## Author
