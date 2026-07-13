@@ -1,2 +1,37 @@
-# AWS-3Tier-Web-Application
-AWS 3-Tier Web Application using VPC, EC2, Apache, Flask and Amazon RDS MySQL.
+# AWS 3-Tier Web Application
+
+## Project Overview
+This project demonstrates a simple AWS 3-Tier Web Application deployed using AWS Free Tier services.
+
+## Technologies Used
+- Amazon VPC
+- Public & Private Subnets
+- Internet Gateway
+- NAT Gateway
+- Route Tables
+- Security Groups
+- Amazon EC2 (Amazon Linux 2023)
+- Apache Web Server
+- Python Flask
+- Amazon RDS MySQL
+
+## Project Features
+- Custom VPC
+- Public and Private Subnets
+- Secure Security Groups
+- Apache Web Server Hosting
+- Flask Web Application
+- MySQL Database Connectivity
+- Dynamic User Data Display
+
+## Architecture
+
+(Add architecture diagram here)
+
+## Screenshots
+
+(Add screenshots here)
+
+## Author
+
+Vinoth Kumar
