@@ -55,12 +55,26 @@ EC2 (Apache + Flask Application)
 Private Subnet  
 ↓  
 Amazon RDS MySQL Database
-
 ## Screenshots
 
-VPC Overview
+### AWS VPC Configuration
+- VPC Overview
+- Public and Private Subnets
+- Route Tables
+- Security Groups
 
-AWS Console Screenshots
+### Compute Layer
+- EC2 Instance Running
+- Apache Web Server
+
+### Database Layer
+- Amazon RDS MySQL Instance
+- EC2 to RDS Database Connection
+
+### Application Testing
+- Flask Application Output
+- User Data Display
+
 
 ## Author
 
