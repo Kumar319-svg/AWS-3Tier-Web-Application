@@ -4,16 +4,24 @@
 This project demonstrates a simple AWS 3-Tier Web Application deployed using AWS Free Tier services.
 
 ## Technologies Used
+
+### AWS Services
 - Amazon VPC
 - Public & Private Subnets
 - Internet Gateway
-- NAT Gateway
 - Route Tables
 - Security Groups
 - Amazon EC2 (Amazon Linux 2023)
+- Amazon RDS MySQL
+
+### Application Stack
 - Apache Web Server
 - Python Flask
-- Amazon RDS MySQL
+- MySQL Database
+
+### Tools
+- Git & GitHub
+- Linux Commands
 
 ## Project Features
 
