@@ -28,8 +28,6 @@ This project demonstrates a simple AWS 3-Tier Web Application deployed using AWS
 
 AWS 3-Tier Architecture
 
-![AWS 3-Tier Architecture](architecture/aws-3tier-architecture.png)
-
 ## Screenshots
 
 VPC Overview
