@@ -24,9 +24,27 @@ This project demonstrates a simple AWS 3-Tier Web Application deployed using AWS
 - MySQL Database Connectivity
 - Dynamic User Data Display
 
+
+
 ## Architecture
 
-AWS 3-Tier Architecture
+
+
+AWS 3-Tier Web Application Flow
+
+Users  
+↓  
+Internet Gateway  
+↓  
+AWS VPC  
+↓  
+Public Subnet  
+↓  
+EC2 (Apache + Flask Application)  
+↓  
+Private Subnet  
+↓  
+Amazon RDS MySQL Database
 
 ## Screenshots
 
