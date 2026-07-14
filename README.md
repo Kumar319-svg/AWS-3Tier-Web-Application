@@ -1,6 +1,7 @@
 # AWS 3-Tier Web Application
 
 ## Project Overview
+
 This project demonstrates a simple AWS 3-Tier Web Application deployed using AWS Free Tier services.
 
 ## Technologies Used
@@ -25,7 +26,6 @@ This project demonstrates a simple AWS 3-Tier Web Application deployed using AWS
 
 ## Project Features
 
-
 - Designed and deployed a 3-Tier architecture using AWS VPC
 - Configured Public and Private Subnets with Route Tables
 - Hosted Apache Web Server on Amazon EC2
@@ -35,10 +35,7 @@ This project demonstrates a simple AWS 3-Tier Web Application deployed using AWS
 - Tested EC2 to RDS database connectivity
 - Displayed dynamic user data from MySQL database
 
-
 ## Architecture
-
-
 
 AWS 3-Tier Web Application Flow
 
@@ -55,6 +52,7 @@ EC2 (Apache + Flask Application)
 Private Subnet  
 ↓  
 Amazon RDS MySQL Database
+
 ## Screenshots
 
 ### AWS VPC Configuration
@@ -75,7 +73,6 @@ Amazon RDS MySQL Database
 - Flask Application Output
 - User Data Display
 
-
 ## Author
 
-Vinoth Kumar
+M.Vinoth Kumar
