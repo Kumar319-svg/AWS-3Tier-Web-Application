@@ -26,7 +26,7 @@ This project demonstrates a simple AWS 3-Tier Web Application deployed using AWS
 
 ## Architecture
 
-(Add architecture diagram here)
+![AWS 3-Tier Architecture](architecture/aws-3tier-architecture.png)m here)
 
 ## Screenshots
 
